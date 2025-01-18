@@ -1,6 +1,8 @@
 # Desafío Literalura
 Este proyecto, llamado "Literalura", fue realizado como parte de la formación en el programa Oracle Next Education (Oracle ONE). Es una aplicación de consola en Java que permite a los usuarios buscar libros por título, listar libros y autores registrados, listar autores vivos en un determinado año, y listar libros por idioma.
 
+![Literalura icon](assets/badge%20literalura.png "Literalura icon")
+
 ## Organización del código
 El proyecto utiliza Java como lenguaje de programación, Spring Boot como framework y Maven para la gestión de dependencias. Está organizado en varios paquetes:
 
